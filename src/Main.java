@@ -3,7 +3,7 @@ public class Main {
         System.out.println("hola mundo");
         System.out.println(canela());
         clase1 c = new clase1();
-        System.out.println(c.cero());
+        System.out.println(c.cero() + " es cero");
     }
     public static int canela () {
         return 3 + 4;
